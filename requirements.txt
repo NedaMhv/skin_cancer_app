@@ -239,6 +239,7 @@ pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1636635402688/work
 pycosat @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ebsmghz9nu/croot/pycosat_1666805511853/work
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pyct @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_615564ea-cf79-46b0-83e7-0a37ab5db74a2ay4a5f0/croots/recipe/pyct_1658500312593/work
+pip==23.1.2 
 pycurl==7.45.1
 pydantic==1.10.2
 PyDispatcher==2.0.5
